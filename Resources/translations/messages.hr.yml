@@ -1,0 +1,15 @@
+time_ago:
+  past:
+    days: 'prije # dana'
+    now: 'upravo sad'
+    minute: 'prije 1 minutu'
+    minutes: 'prije # minuta'
+    hour: 'prije 1 sat'
+    hours: 'prije # sati'
+  future:
+    days: 'za # dana'
+    now: 'sada'
+    minute: 'za 1 minutu'
+    minutes: 'za # minuta'
+    hour: 'za 1 sat'
+    hours: 'za # sati'
